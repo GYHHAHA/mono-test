@@ -4,7 +4,7 @@
   "description": "This is a template repo that can be used to create a monorepo with multiple packages.",
   "author": "Yuanhao Geng",
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky install && npx only-allow pnpm",
     "lint": "eslint ./ --ext .ts,.js,.json --max-warnings=0",
     "format": "prettier --config .prettierrc . --write"
   },
