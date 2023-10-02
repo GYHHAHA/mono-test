@@ -10,7 +10,7 @@
 
     "declaration": true,
     "declarationMap": true,
-    "emitDeclarationOnly": true,
+    // "emitDeclarationOnly": true,
     "noEmitOnError": true,
     "skipLibCheck": true,
     // 这几项配置（当然还有其他相关配置）与生成js文件、d.ts文件，sourcemap文件有关，

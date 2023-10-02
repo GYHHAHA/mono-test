@@ -1,6 +1,6 @@
 {
   "name": "@datawhale/monorepo-template",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "This is a template repo that can be used to create a monorepo with multiple packages.",
   "author": "Yuanhao Geng",
   "scripts": {
@@ -19,6 +19,7 @@
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
     "prettier": "^3.0.3",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "vue-eslint-parser": "^9.3.1"
   }
 }

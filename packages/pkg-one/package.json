@@ -1,7 +1,10 @@
 {
   "name": "@datawhale/pkg-one",
-  "version": "0.0.1",
-  "description": "A package for testing purposes",
+  "version": "0.0.0",
+  "description": "Package One for testing purposes",
   "author": "Yuanhao Geng",
-  "main": "./src/index.ts"
+  "main": "./src/index.ts",
+  "dependencies": {
+    "@datawhale/pkg-two": "workspace:^"
+  }
 }
