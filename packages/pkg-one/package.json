@@ -1,0 +1,7 @@
+{
+  "name": "@datawhale/pkg-one",
+  "version": "0.0.1",
+  "description": "A package for testing purposes",
+  "author": "Yuanhao Geng",
+  "main": "./src/index.ts"
+}
