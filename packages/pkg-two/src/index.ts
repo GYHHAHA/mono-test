@@ -1,3 +1,3 @@
 export function pkgTwo() {
-  return 'pkg-two';
+  return 'pkg-two!';
 }

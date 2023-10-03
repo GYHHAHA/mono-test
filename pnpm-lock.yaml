@@ -73,12 +73,6 @@ importers:
         specifier: ^1.8.5
         version: 1.8.15(typescript@5.2.2)
 
-  apps/app-one:
-    dependencies:
-      '@datawhale/pkg-one':
-        specifier: workspace:^
-        version: link:../../packages/pkg-one
-
   packages/pkg-one:
     dependencies:
       '@datawhale/pkg-two':
