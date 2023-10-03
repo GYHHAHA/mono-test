@@ -1,6 +1,6 @@
 {
   "name": "@datawhale/pkg-two",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Package Two for testing purposes",
   "author": "Yuanhao Geng",
   "main": "./src/index.ts"
