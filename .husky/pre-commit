@@ -13,7 +13,7 @@
 # 否则继续执行提交
 
 # commitlint
-npx --no -- commitlint --edit ${1}
+npx commitlint --edit ${1}
 
 # lint-staged
 # npx lint-staged
