@@ -1,5 +1,5 @@
 {
-  "name": "@datawhale/monorepo-template",
+  "name": "monorepo-template",
   "version": "0.0.0",
   "description": "This is a template repo that can be used to create a monorepo with multiple packages.",
   "author": "Yuanhao Geng",
