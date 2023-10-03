@@ -6,7 +6,8 @@
   "scripts": {
     "prepare": "husky install && npx only-allow pnpm",
     "lint": "eslint ./ --ext .ts,.js,.json --max-warnings=0",
-    "format": "prettier --config .prettierrc . --write"
+    "format": "prettier --config .prettierrc . --write",
+    "commitlint": "commitlint --edit"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
