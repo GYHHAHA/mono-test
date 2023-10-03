@@ -1,6 +1,3 @@
 {
-  "extends": ["@commitlint/config-conventional"],
-  "rules": {
-    "scope-enum": [2, "always", ["parser", "render"]]
-  }
+  "extends": ["@commitlint/config-conventional"]
 }

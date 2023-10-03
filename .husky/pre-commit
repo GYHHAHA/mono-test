@@ -12,4 +12,8 @@
 
 # 否则继续执行提交
 
-npx lint-staged
+# commitlint
+npx --no -- commitlint --edit ${1}
+
+# lint-staged
+# npx lint-staged
